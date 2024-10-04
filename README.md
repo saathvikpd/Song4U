@@ -10,4 +10,6 @@ Award: BEST BEGINNER HACK
 
 Run Script:
 
-```python3 gui.py```
+```rb
+python3 gui.py
+```
