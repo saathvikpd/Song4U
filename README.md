@@ -11,5 +11,5 @@ Award: BEST BEGINNER HACK
 Run Script:
 
 ```rb
-python3 gui.py
+python3 API/gui.py
 ```
